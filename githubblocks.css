@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.kittys{
+    background-color: silver;
+    padding: 20px;
+}
+img.gato {
+    height: 200px;
+    background-color: white;
+    margin: 30px;
+}
+.lions{
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+.kittens{
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    justify-content: space-evenly;
+}
+.cats{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    justify-content: space-evenly;
+}

@@ -1,0 +1,27 @@
+.box{
+    height:200px;
+    background-color: fuchsia;
+    width: 200px;
+    padding: 50px;
+    border: 1px solid black;
+    margin: 10px;
+    display:inline-block
+}
+.smallbox{
+    height: 50%;
+    width: 100%;
+    background-color: darkgoldenrod;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    
+}
+
+p{
+    width: 300px;
+    height: 400px;
+    margin-top: 40px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
