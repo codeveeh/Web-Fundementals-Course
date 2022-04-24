@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.nav{
+    background-color: darkslategray;
+    color: white;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+
+.nav-title{
+text-align: left;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nav-links{ 
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    width: 40%;
+    list-style-type: none;
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+
+.btn{
+    height: 25px;
+    width: 90px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 15px;
+    box-shadow: 2px 2px black;
+}
+
